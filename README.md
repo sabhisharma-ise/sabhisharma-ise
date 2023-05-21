@@ -1,14 +1,17 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sabhi Sharma
+<!-- Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sabhi Sharma
 ====================================================================================================================================
+Open Source enthusiast
+------------- -->
 
-Web Developer
--------------
+<h1 align="center">Hi 👋, I'm Sabhi Sharma</h1>
+<h3 align="center">An Open Source enthusiast</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sabhisharma-ise&label=Profile%20views&color=0e75b6&style=flat" alt="sabhisharma-ise" /> </p>
 
 * 🌍  I'm based in Mysore, India.
 * ✉️  You can contact me at [sabhisharma123@gmail.com](mailto:sabhisharma123@gmail.com)
 * 🧠  I'm learning React.js
 * 🤝  I'm open to collaborating on Open Source projects
-</p>
 
 
 <hr>
