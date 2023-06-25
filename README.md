@@ -18,16 +18,17 @@ Open Source enthusiast
 <p align="center">
     <i>🔨Languages and Tools used ⚒</i>
     <p align="center">
-        <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+        <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="NodeJS" /></a>
 </p>
 
 <hr>
@@ -35,13 +36,13 @@ Open Source enthusiast
 <p align="center">
     <i>Socials ▶ ️</i>
     <p align="center">
-      <a href="https://www.github.com/sabhisharma-ise" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-      <a href="https://www.twitter.com/SabhiSharma4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-      <a href="https://@sabhisharma.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-      <a href="https://www.dev.to/sabhisharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a>
-      <a href="https://www.linkedin.com/in/sabhisharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-      <a href="http://www.instagram.com/sabhisharma_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
-      <a href="https://www.behance.com/sabhisharma" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>    
+      <a href="https://www.github.com/sabhisharma-ise" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a>
+      <a href="https://www.twitter.com/SabhiSharma4" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" /></a>
+      <a href="https://@sabhisharma.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width="32" height="32" /></a>
+      <a href="https://www.dev.to/sabhisharma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="32" height="32" /></a>
+      <a href="https://www.linkedin.com/in/sabhisharma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a> 
+      <a href="http://www.instagram.com/sabhisharma_" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram" width="32" height="32" /></a> 
+      <a href="https://www.behance.com/sabhisharma" target="_blank" rel="noreferrer"><img src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38828/preview.svg" width="32" height="32" /></a>    
 </p>
 
 <hr>
