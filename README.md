@@ -50,7 +50,7 @@ Open Source enthusiast
 <p align="center">
     <i> 📈 GitHub Stats</i>
         <p align="center">
-            <a href="https://github.com/sabhisharma-ise?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabhisharma-ise&custom_title=This%20is%20a%20title&hide_border=true&theme=xcode" /></a>
+            <a href="https://github.com/sabhisharma-ise?tab=repositories" target="_blank" rel="noreferrer"><img width="99.4%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabhisharma-ise&custom_title=Contribution%20Graph&hide_border=true&theme=xcode" /></a>
             <a href="https://github.com/sabhisharma-ise?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-stats.vercel.app/api?username=sabhisharma-ise&show_icons=true&theme=tokyonight"/></a>
             <a href="https://github.com/sabhisharma-ise?tab=repositories" target="_blank" rel="noreferrer"><img width="49.7%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabhisharma-ise&show_icons=true&theme=tokyonight" /></a>
         </p>
