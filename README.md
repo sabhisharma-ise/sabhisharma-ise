@@ -10,8 +10,8 @@ Open Source enthusiast
 
 * 🌍  I'm based in Mysore, India.
 * ✉️  You can contact me at [sabhisharma123@gmail.com](mailto:sabhisharma123@gmail.com)
-* 🧠  I'm learning Back-End development <img src="https://skillicons.dev/icons?i=backend" width="18" height="18" alt="Java" />
-* 🤝  I'm open to collaborating on Open Source projects
+* 🧠  Right now, I'm learning Cybersecurity and Backend development <img src="https://skillicons.dev/icons?i=backend" width="18" height="18" alt="Java" />
+* 🤝  Open to collaborating on Open Source projects
 
 
 <hr>
