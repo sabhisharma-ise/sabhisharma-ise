@@ -4,7 +4,7 @@ Open Source enthusiast
 ------------- -->
 
 <h1 align="center">Hi 👋, I'm Sabhi Sharma</h1>
-<h3 align="center">Not a nerd, but love to code!</h3>
+<h3 align="center">Not a nerd, but loves to code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabhisharma-ise&label=Profile%20views&color=0e75b6&style=flat" alt="sabhisharma-ise" /> </p>
 
@@ -18,19 +18,22 @@ Open Source enthusiast
 <p align="center">
     <i>🔨Languages and Tools used ⚒</i>
     <p align="center">
-        <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" /></a>
-<a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" /></a>
+<!-- <a href="https://learn.microsoft.com/en-us/cpp/c-language/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" /></a> -->
+<!-- <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++" /></a>
+<!-- <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" /></a> -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a>
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML5" /></a> -->
+<!-- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS3" /></a> -->
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="Express" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.vim.org/about.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" width="36" height="36" alt="Vim" /></a>
+<a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion" width="36" height="36" alt="Notion" /></a>
+<a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mint" width="36" height="36" alt="Linux Mint" /></a>
 
 </p>
 
