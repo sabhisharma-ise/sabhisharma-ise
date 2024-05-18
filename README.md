@@ -4,7 +4,7 @@ Open Source enthusiast
 ------------- -->
 
 <h1 align="center">Hi 👋, I'm Sabhi Sharma</h1>
-<h3 align="center">An Open Source enthusiast</h3>
+<h3 align="center">Not a nerd, but love to code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sabhisharma-ise&label=Profile%20views&color=0e75b6&style=flat" alt="sabhisharma-ise" /> </p>
 
@@ -29,6 +29,9 @@ Open Source enthusiast
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bootstrap" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /></a>
+
 </p>
 
 <hr>
@@ -37,7 +40,7 @@ Open Source enthusiast
     <i>Socials ▶ ️</i>
     <p align="center">
       <a href="https://www.github.com/sabhisharma-ise" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" width="32" height="32" /></a>
-      <a href="https://www.twitter.com/SabhiSharma4" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" /></a>
+<!--       <a href="https://www.twitter.com/SabhiSharma4" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" /></a> -->
       <a href="https://@sabhisharma.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" width="32" height="32" /></a>
       <a href="https://www.dev.to/sabhisharma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=devto" width="32" height="32" /></a>
       <a href="https://www.linkedin.com/in/sabhisharma" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" /></a> 
