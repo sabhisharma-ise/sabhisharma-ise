@@ -33,7 +33,7 @@ Open Source enthusiast
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
 <a href="https://www.vim.org/about.php" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vim" alt="Vim" /></a>
 <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=notion"  alt="Notion" /></a>
-<a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mint"  alt="Linux Mint" /></a>
+<a href="https://linuxmint.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux"  alt="Linux Mint" /></a>
 
 </p>
 
