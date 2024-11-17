@@ -12,7 +12,7 @@ Open Source enthusiast
 * ✉️  You can contact me at [sabhisharma123@gmail.com](mailto:sabhisharma123@gmail.com)
 * 🧠  Right now, I'm learning Cybersecurity and Back-end development <img src="https://skillicons.dev/icons?i=backend" width="18" height="18" alt="Java" />
 * 🤝  Open to collaborating on Open Source projects
-* 💁‍♂️  Checkout my Portfolio Website at [sabhisharma.live](sabhisharma.live)
+* 💁‍♂️  Checkout my Portfolio Website at [sabhisharma.live](https://sabhisharma.live)
 
 
 <hr>
