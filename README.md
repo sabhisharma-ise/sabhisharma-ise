@@ -64,10 +64,10 @@ I occasionally write about:
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sabhisharma-ise&custom_title=Contribution%20Graph&hide_border=true&theme=xcode" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sabhisharma-ise&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sabhisharma-ise&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
