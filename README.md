@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sabhi Sharma</h1>
 
 <p align="center">
-  <b>Software Development Engineer in Test (SDET)</b><br>
+  <b>Software Engineer</b><br>
   Working on large-scale systems, edge platforms, and automation
 </p>
 
@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-- Early-career **SDET** with hands-on experience testing **distributed systems** and **edge platforms**
+- Early-career **Software Engineer** with hands-on experience testing **distributed systems** and **edge platforms**
 - Strong fundamentals in **computer networks** (HTTP/HTTPS, TCP/IP, DNS)
 - Interested in **system reliability, performance, and automation**
 - Enjoy working close to how the **internet works under the hood**
